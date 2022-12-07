@@ -26,4 +26,4 @@ Legendary assassin John Wick (Keanu Reeves) retired from his violent career afte
     - Alfie Allen	- Iosef Tarasov	
     - Adrianne Palicki - Ms. Perkins	
 
-    <h2>if you want to watch John Wick you can watch on Netflix</h2>
+<h2>if you want to watch John Wick you can watch on Netflix</h2>
