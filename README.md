@@ -10,16 +10,20 @@ Stahelski and David Leitch directed the film together, though only Stahelski was
 John Wick premiered at the Fantastic Fest on September 19, 2014, and was released theatrically in the United States on October 24, by Summit Entertainment. The film grossed $86 million worldwide against its budget of $20–30 million and received generally positive reviews from critics, with praises for its action sequences, visual style, and Reeves's performances (which many viewed as his comeback role). It went on to be regarded as one of the best action films of all time.
 
 <h1>PLOT<h1>
+  
 Legendary assassin John Wick (Keanu Reeves) retired from his violent career after marrying the love of his life. Her sudden death leaves John in deep mourning. When sadistic mobster Iosef Tarasov (Alfie Allen) and his thugs steal John's prized car and kill the puppy that was a last gift from his wife, John unleashes the remorseless killing machine within and seeks vengeance. Meanwhile, Iosef's father (Michael Nyqvist) -- John's former colleague -- puts a huge bounty on John's head.
   
   <h1>CAST<h1>
-    Keanu Reeves - John Wick
-    Ian McShane - Winston Scott
-    Lance Reddick - Charon
-    John Leguizamo - Aurelio
-    Randall Duk Kim - The Doctor
-    Laurence Fishburne - The Bowery King
-    Willem Dafoe - Marcus	
-    Michael Nyqvist	 - Viggo Tarasov	
-    Alfie Allen	- Iosef Tarasov	
-    Adrianne Palicki - Ms. Perkins	
+    
+    - Keanu Reeves - John Wick
+    - Ian McShane - Winston Scott
+    - Lance Reddick - Charon
+    - John Leguizamo - Aurelio
+    - Randall Duk Kim - The Doctor
+    - Laurence Fishburne - The Bowery King
+    - Willem Dafoe - Marcus	
+    - Michael Nyqvist	 - Viggo Tarasov	
+    - Alfie Allen	- Iosef Tarasov	
+    - Adrianne Palicki - Ms. Perkins	
+
+    <h2>if you want to watch John Wick you can watch on Netflix<h2>
